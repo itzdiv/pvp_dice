@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Welcome to PvP Dice Game!</h1>
+    <P>You can acces the site here: https://itzdiv.github.io/pvp_dice/dicee.html </P>
     <p>In this simple JavaScript game, on each refresh, the dice for Player 1 and Player 2 will randomly change. The player with the highest number wins!</p>
     <img src="https://github.com/itzdiv/pvp_dice/blob/main/render_images/render_1.png" alt="Game Preview" height="700px" width="100%">
     
